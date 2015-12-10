@@ -1,0 +1,6 @@
+[submodule "themes/sg"]
+	path = themes/sg
+	url = https://github.com/synapse-garden/sg-hugo-theme
+[submodule "static/dash"]
+	path = static/dash
+	url = https://github.com/synapse-garden/dash
